@@ -5,7 +5,7 @@ This is simple NFT minter dapp, which will mint image NFT on Harmony network. Th
 
 ## How to use
 
-
+![alt text](https://files.slack.com/files-pri/TA4UHCN7K-F034AEQLSE4/image.png)
 
 
 
